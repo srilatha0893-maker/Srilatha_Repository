@@ -1,0 +1,27 @@
+{
+
+    "Firstset1" :{
+
+        "name" : "srilatha",
+        "email" : "Srilatha@gmail.com",
+        "Phone" : "123456456",
+        "Address" : "Hyderabad"
+    },
+    "Firstset2" :{
+
+        "name" : "Honey",
+        "Email" : "Honey@gmail.com",
+        "Phone" : "1111111111",
+        "Address" : "Hyderabad"
+    },
+    "Firstset3" :{
+
+        "name" : "Geethu",
+        "Email" : "Geethu@gmail.com",
+        "Phone" : "222222222",
+        "Address" : "Hyderabad"
+    }
+
+
+
+}
