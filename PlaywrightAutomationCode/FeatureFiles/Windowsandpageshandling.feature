@@ -14,4 +14,4 @@ When I launch the test automation site
 @regression1
 Scenario:  Windows and Pages Handling
 Then Windows and Pages Handling
-Then I close the browser0
+Then I close the browser0v
